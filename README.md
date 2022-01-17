@@ -5,6 +5,7 @@
 
 # João Ataíde
 <sub>*Cientista de Dados na Imagem Esri*</sub>
+
 ---
 Esse aqui é meu reporitório de Pesquisa Operacional, neste realizou pequenos cases de estudo no qual procuro otimizar processos e resolver problemas utilizando otimização matemática.
 
