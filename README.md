@@ -4,16 +4,10 @@
 </p>
 
 # João Ataíde
-<sub>*Cientista de Dados na Imagem – Soluções de Inteligência Geográfica​</sub>
+<sub>*Cientista de Dados na Imagem Esri*</sub>
 
+Esse aqui é meu reporitório de Pesquisa Operacional, neste realizou pequenos cases de estudo no qual procuro otimizar processos e resolver problemas utilizando otimização matemática.
 
-Sou graduado em Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido (UFERSA), onde trabalhei como bolsista no Acesso à Terra Urbanizada nos projetos Smart Cities, REURBE'S, MAPA e hoje no Urbis, obtive experiências práticas e teóricas na área das geotecnologias, com ênfase em levantamento cartográfico. Após essa graduação na mesma instituição me formei em Engenharia Civil.
-
-Também sou especialista em Ciência de Dados pela Universidade Norte do Paraná (UNOPAR) e especialista em Geoprocessamento e Georreferenciamento (UFERSA) e hoje estou fazendo o MBA em Pesquisa Operacional e tomada de decisão (BsBr).
-
-Fui estagiário da InPlantar Meio Ambiente, e Engenharia, neste realizamos trabalhos com técnicas e ferramentas de geoprocessamento, na aquisição, tratamento e suporte de dados e banco de dados.
-
-Hoje atuo como cientista de dados na Imagem – Soluções de Inteligência Geográfica, desenvolvendo soluções que integram as capacidades analíticas e espaciais do ArcGIS com a versatilidade e acurácia dos modelos de Machine Learning e Deep Learning.
 **Background in:** Pyomo, DEAP, Algoritimos Genéticos, Pesquisa Operacional, Otimização Discreta.
 
 **Links:**
