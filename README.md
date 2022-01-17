@@ -5,17 +5,19 @@
 
 # João Ataíde
 <sub>*Cientista de Dados na Imagem Esri*</sub>
-
+---
 Esse aqui é meu reporitório de Pesquisa Operacional, neste realizou pequenos cases de estudo no qual procuro otimizar processos e resolver problemas utilizando otimização matemática.
 
 **Background in:** Pyomo, DEAP, Algoritimos Genéticos, Pesquisa Operacional, Otimização Discreta.
 
-**Links:**
+---
+
+**Contatos:**
 * [Blog](https://www.joaoataide.com)
 * [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
 
 
-## Projetos:
+**Projetos:**
 Veja os projetos publicados no meu blog:
 
 * **Classificação de Roupas usando TensorFlow:**[ Projeto](https://www.joaoataide.com/post/classificação-de-roupas-com-tensorflow)
