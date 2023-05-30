@@ -1,34 +1,37 @@
+# Operational Research Repository by João Ataíde
 
-<p align="center">
-  <img src="bannerr.png" >
-</p>
+João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his Operational Research projects, where he conducts small case studies seeking to optimize processes and solve problems using mathematical optimization.
 
-# João Ataíde
-<sub>*Cientista de Dados na Imagem Esri*</sub>
+## Background
+João has a background in Pyomo, DEAP, Genetic Algorithms, Operational Research, Discrete Optimization.
 
----
-Esse aqui é meu reporitório de Pesquisa Operacional, neste realizou pequenos cases de estudo no qual procuro otimizar processos e resolver problemas utilizando otimização matemática.
+## Contact
+- [Blog](https://joaoataide.com)
+- [LinkedIn](https://www.linkedin.com/in/jvataidee/)
 
-**Background in:** Pyomo, DEAP, Algoritimos Genéticos, Pesquisa Operacional, Otimização Discreta.
+## Projects
+You can find the projects published on his blog:
 
----
+1. [Estimando tempo de projetos de deep learning usando simulação e cadeias de Markov](https://joaoataide.com/Classificacao-de-Roupas-usando-TensorFlow)
+2. [Otimização de cargas com algoritmo genético](https://www.joaoataide.com/post/otimiza%C3%A7%C3%A3o-de-cargas-com-algoritmo-gen%C3%A9tico)
+3. [Como pesquisa operacional me ajudou a decidir qual notebook comprar?](https://joaoataide.com/Estimativa-de-evapotranspiracao)
 
-**Contatos:**
-* [Blog](https://www.joaoataide.com)
-* [LinkedIn](https://www.linkedin.com/in/joaoataidee/)
+## Repository Content
+The repository contains various Jupyter notebooks with different Operational Research projects, including:
 
+- `MaximizarInvestimento.ipynb`
+- `Problema_Mochila.ipynb`
+- `Programação_Linear.ipynb`
+- `agregacao_sintese.ipynb`
+- `analytic_hierarchy_process.ipynb`
+- `atividade_logica_fuzzy.ipynb`
+- `atividade_metodos_sobreclassificacao.ipynb`
+- `cadeias_de_markov.ipynb`
+- `maxloglihood_portfolio.ipynb`
+- `metodos_sobreclassificacao.ipynb`
+- `otimização_carga_caminhão.ipynb`
 
-**Projetos:**
-Veja os projetos publicados no meu blog:
-
-* **Classificação de Roupas usando TensorFlow:**[ Projeto](https://www.joaoataide.com/post/classificação-de-roupas-com-tensorflow)
-* **Analisar os termos mais frequentes em artigos do COVID-19:**[ Projeto](https://www.joaoataide.com/post/desafio-kaggle-covid-19)
-* **Estimativa de evapotranspiração:**[ Projeto](https://www.joaoataide.com/post/estimativa-da-evapotranspiração)
-* **Análise de ocupação irregular de Linhas de Transmissão:**[ Projeto](https://www.joaoataide.com/post/linhas-de-transmissão)
-* **Vetorização semiautomática de áreas urbanas:** [ Projeto](https://www.joaoataide.com/post/vetorização-semiautomática)
-* **Comparação dos Levantamento Cartográficos Pré e Pós Processado:**[ Projeto](https://www.joaoataide.com/post/pós-e-pré-processados)
----
-
-
-
-
+## Additional Information
+- No releases published
+- No packages published
+- 100% Jupyter Notebook
