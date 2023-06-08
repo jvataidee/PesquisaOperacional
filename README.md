@@ -1,3 +1,5 @@
+![Project Image](banner.png.png)
+
 # Operational Research Repository by João Ataíde
 
 João Ataíde is a Data Scientist at Imagem Esri. This repository is dedicated to his Operational Research projects, where he conducts small case studies seeking to optimize processes and solve problems using mathematical optimization.
