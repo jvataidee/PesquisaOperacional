@@ -1,4 +1,4 @@
-![Project Image](bannerr.png)
+![Project Image](PO.png)
 
 # Operational Research Repository by João Ataíde
 
